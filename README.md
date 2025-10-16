@@ -1,6 +1,4 @@
-Absolutely 👍 — here’s your same **README.md** file, cleaned up and perfectly formatted **without any asterisks or Markdown bold symbols**, so it appears plain and simple on GitHub.
 
----
 
 ````markdown
 # 🎬 Netflix Content Trends Analysis
